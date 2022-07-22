@@ -9,4 +9,5 @@ jobs:
       - name: Rick Roll
         uses: TejasvOnly/random-rickroll@v1.0
         with:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           percentage: 100
