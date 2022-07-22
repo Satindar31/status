@@ -36,3 +36,5 @@ workflowSchedule:
   uptime: "*/1 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+il8n:
+  footer: Powered by my braincells
