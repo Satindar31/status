@@ -15,7 +15,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.satindars-den.cf
   # baseUrl: /your-repo-name
-  logoUrl: https://avatars.githubusercontent.com/u/73517520?s=1000&v=9
   name: Status Page
   introTitle: "Status page, duh"
   introMessage: Welcone
