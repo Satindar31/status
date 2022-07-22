@@ -9,13 +9,14 @@ sites:
     url: https://chill31.github.io
 
 status-website:
+  logoUrl: https://avatars.githubusercontent.com/u/73517520?s=1000&v=9
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.satindars-den.cf
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/73517520?s=1000&v=9
-  name: Status
+  name: Status Page
   introTitle: "Status page, duh"
   introMessage: Welcone
   navbar:
